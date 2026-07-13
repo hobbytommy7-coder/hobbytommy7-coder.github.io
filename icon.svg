@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Tommy AI Fitness Coach">
+  <rect width="512" height="512" rx="112" fill="#080c10"/>
+  <circle cx="256" cy="256" r="206" fill="#121a20"/>
+  <path d="M128 290h256" stroke="#8fdc3f" stroke-width="42" stroke-linecap="round"/>
+  <path d="M164 212v156M348 212v156" stroke="#8fdc3f" stroke-width="52" stroke-linecap="round"/>
+  <path d="M218 170h76c44 0 80 36 80 80v88c0 14-12 26-26 26H164c-14 0-26-12-26-26v-88c0-44 36-80 80-80Z" fill="none" stroke="#f4f7fb" stroke-width="24" stroke-linejoin="round"/>
+  <path d="M221 263h70M256 228v70" stroke="#f4f7fb" stroke-width="20" stroke-linecap="round"/>
+  <text x="256" y="424" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" fill="#f4f7fb">T</text>
+</svg>
